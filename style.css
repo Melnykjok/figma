@@ -1,0 +1,41 @@
+body{
+    color: rgb(201, 11, 226);
+    font-size: 30px;
+    }
+.first .red{
+    font-weight: 700;
+    padding: white;
+}
+
+.first {
+    background-color: brown;
+    color: rgb(179, 255, 0);
+    }
+    a:link{
+        font-size: 30px;
+        color:blue;
+}
+
+p:first-child {
+    border: 1px solid color black;
+    font-size: 50px;
+    color: black;
+    front-size: 80px;
+}
+
+a:hover {
+    font-size: 70%;
+    cursor: pointer;
+    color:indianred;
+} */
+
+div {
+    color: red;
+    border: 1px solid black;
+}
+
+p {
+    border: 1px solid black;
+    width: 10%
+    htight 10%
+}
